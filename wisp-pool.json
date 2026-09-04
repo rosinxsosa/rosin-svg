@@ -1,0 +1,51 @@
+{
+  "origin": "https://777upstep.cfd",
+  "origins": [
+    "https://777upstep.cfd",
+    "https://w6b13c4.zone-telechargement.sbs",
+    "https://w306a96.averot.pics",
+    "https://w63a4b5.bali-villas-for-sale.rest",
+    "https://w0f5a34.silagra.cfd",
+    "https://wd91246.sikhaythailaorestaurant.cfd"
+  ],
+  "generatedAt": "2026-09-02T02:41:42.881Z",
+  "ip": "51.81.35.165",
+  "relays": [
+    {
+      "host": "777upstep.cfd",
+      "path": "/api/websocket-3/",
+      "coast": "east"
+    },
+    {
+      "host": "777upstep.cfd",
+      "path": "/api/websocket-2/",
+      "coast": "west"
+    },
+    {
+      "host": "w6b13c4.zone-telechargement.sbs",
+      "path": "/api/websocket-2/",
+      "coast": "west"
+    },
+    {
+      "host": "w306a96.averot.pics",
+      "path": "/api/websocket-3/",
+      "coast": "east"
+    },
+    {
+      "host": "w63a4b5.bali-villas-for-sale.rest",
+      "path": "/api/websocket-2/",
+      "coast": "west"
+    },
+    {
+      "host": "w0f5a34.silagra.cfd",
+      "path": "/api/websocket-3/",
+      "coast": "east"
+    },
+    {
+      "host": "wd91246.sikhaythailaorestaurant.cfd",
+      "path": "/api/websocket-2/",
+      "coast": "west"
+    }
+  ],
+  "cache": "03-09-2026"
+}

@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML='<p style="color:#8cf;font-family:system-ui;padding:2rem">SVG shell ready. Set ASSETS_DIR=../PeteZahGames/dist and rebuild, or open https://truffled.lol directly.</p>';
